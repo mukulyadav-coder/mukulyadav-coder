@@ -95,11 +95,14 @@ me.say_hi()
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=mukulyadav-coder&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
-
-![](https://nirzak-streak-stats.vercel.app/?user=mukulyadav-coder&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mukulyadav-coder&theme=tokyonight&hide_border=true&layout=compact)
+| Metric | Value |
+|--------|-------|
+| 🌟 Total Repos | Check on [GitHub](https://github.com/mukulyadav-coder?tab=repositories) |
+| 💻 Languages | Python, JavaScript, SQL, C++ |
+| 🔥 Streak | Active since Sep 2024 |
+| ⭐ Top Project | [Experr](https://github.com/mukulyadav-coder/Experr) |
+| 🏆 Hackathons | 6+ participated |
+| 💡 Problems Solved | 60+ on HackerRank |
 
 </div>
 
